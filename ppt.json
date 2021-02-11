@@ -151,7 +151,7 @@
     "id": 27,
     "name": "Poland(2012)",
     "parent": 26,
-    "size": 299
+    "size": 3299
   },
   {
     "id": 28,
@@ -163,37 +163,37 @@
     "id": 29,
     "name": "Hanoi(2016)",
     "parent": 26,
-    "size": 264
+    "size": 3264
   },
   {
     "id": 30,
     "name": "South Africa(2018)",
     "parent": 26,
-    "size": 843
+    "size": 3843
   },
   {
     "id": 31,
     "name": "Singapore",
     "parent": 26,
-    "size": 1554
+    "size": 3554
   },
   {
     "id": 32,
     "name": "Lilly",
     "parent": 26,
-    "size": 970
+    "size": 3270
   },
   {
     "id": 33,
     "name": "Australia",
     "parent": 26,
-    "size": 13896
+    "size": 33896
   },
   {
     "id": 34,
     "name": "Nagpur,India",
     "parent": 26,
-    "size": 1594
+    "size": 3594
   },
   
  ]
