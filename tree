@@ -11,7 +11,8 @@
   {
     "id": 3,
     "name": "Acoustic Emission method",
-    "parent": 2
+    "parent": 2,
+    "size": 3938
   },
   {
     "id": 4,
@@ -23,70 +24,73 @@
     "id": 5,
     "name": "Fibre Optics sensing methods",
     "parent": 2,
-    "size": 3812
+    "size": 3938
   },
   {
     "id": 6,
     "name": "Gas Injection methods",
     "parent": 2,
-    "size": 6714
+    "size": 3938
   },
   {
     "id": 7,
     "name": "Magnetic Induction",
     "parent": 2,
-    "size": 743
+    "size": 3938
   },
   {
     "id": 8,
     "name": "Ground Penetration Radar",
-    "parent": 2
+    "parent": 2,
+    "size": 3938
   },
   {
     "id": 9,
     "name": "Vibration/Accelerometer",
     "parent": 2,
-    "size": 3534
+    "size": 3938
   },
   {
     "id": 10,
     "name": "Electromechanical Impedance",
     "parent": 2,
-    "size": 5731
+    "size": 3938
   },
   {
     "id": 11,
     "name": "Fluroscene",
     "parent": 2,
-    "size": 7840
+    "size": 3938
   },
   {
     "id": 12,
     "name": "Biwire sensor(Capacitance)",
     "parent": 2,
-    "size": 5914
+    "size": 3938
   },
   {
     "id": 13,
     "name": "Pipe Injection Gauge",
     "parent": 2,
-    "size": 3416
+    "size": 3938
   },
   {
     "id": 14,
     "name": "Thermal Infrared Imaging",
-    "parent": 2
+    "parent": 2,
+    "size": 3938
   },
   {
     "id": 15,
     "name": "Temperature gradient",
     "parent": 2,
-    "size": 7074
+    "size": 3938
   },
   {
     "id": 16,
     "name": "Lidar",
-    "parent": 2
+    "parent": 2,
+    "size": 3938
   },
   {
     "id": 17,
