@@ -241,37 +241,37 @@
     "id": 42,
     "name": "Nature of Dataset",
     "parent": 25,
-    "size": 319
+    "size": 318
   },
    {
     "id": 43,
     "name": "Software Used for Data Generation",
     "parent": 25,
-    "size": 319
+    "size": 317
   },
   {
     "id": 44,
     "name": "Optimization Algorithm used",
     "parent": 25,
-    "size": 319
+    "size": 316
   },
   {
     "id": 45,
     "name": "M/C Learning Techniques",
     "parent": 25,
-    "size": 319
+    "size": 315
   },
   {
     "id": 46,
     "name": "o/p Obtained",
     "parent": 25,
-    "size": 319
+    "size": 314
   },
   {
     "id": 47,
     "name": "Miscellaneous",
     "parent": 25,
-    "size": 319
+    "size": 313
   }
   ]
  
