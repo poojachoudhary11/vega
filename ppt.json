@@ -625,6 +625,77 @@
     "name": "Multivariate Version of CUSUM & EWMA",
     "parent": 54,
     "size": 101
+  },
+   {
+    "id": 107,
+    "name": "Raman Distribute Temperature",
+    "parent": 4,
+    "size": 1675
+  },
+  {
+    "id": 108,
+    "name": "Brilloun Optical Time Domain Reflectometry",
+    "parent": 4,
+    "size": 2042
+  },
+  {
+    "id": 109,
+    "name": "Fiber Brag Grating",
+    "parent": 4,
+    "size": 1041
+  },
+  {
+    "id": 110,
+    "name": "Listening Rod",
+    "parent": 3,
+    "size": 5176
+  },
+  {
+    "id": 111,
+    "name": "Hydrophone",
+    "parent": 3,
+    "size": 449
+  },
+  {
+    "id": 112,
+    "name": "Leak Correlator",
+    "parent": 3,
+    "size": 5593
+  },
+  {
+    "id": 113,
+    "name": "Microphone",
+    "parent": 3,
+    "size": 5534
+  },
+  {
+    "id": 114,
+    "name": "Leak Noise Loggers",
+    "parent": 3,
+    "size": 9201
+  },
+  {
+    "id": 115,
+    "name": "surface listening",
+    "parent": 113,
+    "size": 19975
+  },
+  {
+    "id": 116,
+    "name": "Ground Penetrating",
+    "parent": 113,
+    "size": 1116
+  },
+  {
+    "id": 117,
+    "name": "Inverse Transient",
+    "parent": 22,
+    "size": 6006
+  },
+  {
+    "id": 118,
+    "name": "Direct Transient",
+    "parent": 22
   }
   
  
