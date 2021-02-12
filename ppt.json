@@ -503,6 +503,65 @@
     "name": "Leak Detection+ Size Estimation+Leak Localization",
     "parent": 46,
     "size": 273
+  },
+  {
+    "id": 86,
+    "name": "Time Domain",
+    "parent": 21
+  },
+  {
+    "id": 87,
+    "name": "Frequency Domain",
+    "parent": 21,
+    "size": 721
+  },
+  {
+    "id": 88,
+    "name": "Fourier Based",
+    "parent": 21,
+    "size": 4294
+  },
+  {
+    "id": 89,
+    "name": "Wavelet Based",
+    "parent": 21,
+    "size": 9800
+  },
+  {
+    "id": 90,
+    "name": "Kalman Filter",
+    "parent": 21,
+    "size": 1314
+  },
+  {
+    "id": 91,
+    "name": "Cross Correlation",
+    "parent": 21,
+    "size": 2220
+  },
+  {
+    "id": 92,
+    "name": "Hilbert Huang Transform",
+    "parent": 21,
+    "size": 1759
+  },
+  {
+    "id": 93,
+    "name": "Wavelet Harr Transform",
+    "parent": 21,
+    "size": 2165
+  },
+  {
+    "id": 94,
+    "name": "STFT",
+    "parent": 88,
+    "size": 586
+  },
+  {
+    "id": 95,
+    "name": "FFT",
+    "parent": 88,
+    "size": 555
   }
  
   ]
