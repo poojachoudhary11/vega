@@ -562,7 +562,71 @@
     "name": "FFT",
     "parent": 88,
     "size": 555
+  },
+   {
+    "id": 96,
+    "name": "Gaussian Mixture Model",
+    "parent": 23,
+    "size": 772
+  },
+  {
+    "id": 97,
+    "name": "Hidden Markov Model",
+    "parent": 23,
+    "size": 3322
+  },
+  {
+    "id": 98,
+    "name": "PCA",
+    "parent": 23
+  },
+  {
+    "id": 99,
+    "name": "BIS",
+    "parent": 23,
+    "size": 8833
+  },
+  {
+    "id": 100,
+    "name": "Univariate",
+    "parent": 23,
+    "size": 1732
+  },
+  {
+    "id": 101,
+    "name": "Multivariate",
+    "parent": 23,
+    "size": 3623
+  },
+  {
+    "id": 102,
+    "name": "WECO Rules",
+    "parent": 100,
+    "size": 10066
+  },
+  {
+    "id": 103,
+    "name": "CUSUM",
+    "parent": 100
+  },
+  {
+    "id": 104,
+    "name": "EWMA",
+    "parent": 100,
+    "size": 4116
+  },
+  {
+    "id": 105,
+    "name": "Hotelling T2",
+    "parent": 101
+  },
+  {
+    "id": 106,
+    "name": "Multivariate Version of CUSUM & EWMA",
+    "parent": 54,
+    "size": 101
   }
+  
  
   ]
  
