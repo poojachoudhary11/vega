@@ -5,55 +5,55 @@
     "id": 1,
     "name": "Smart Water Grid",
     "parent": 1,
-    "size": 1629
+    "size": 1000
   },
   {
     "id": 2,
     "name": "Poland(2012)",
     "parent": 1,
-    "size": 1629
+    "size": 300
   },
   {
     "id": 3,
     "name": "Barcelona(2014)",
     "parent": 1,
-    "size": 354
+    "size": 300
   },
   {
     "id": 4,
     "name": "Hanoi(2016)",
     "parent": 1,
-    "size": 264
+    "size": 300
   },
   {
     "id": 5,
     "name": "South Africa(2018)",
     "parent": 1,
-    "size": 843
+    "size": 300
   },
   {
     "id": 6,
     "name": "Singapore",
     "parent": 1,
-    "size": 1554
+    "size": 300
   },
   {
     "id": 7,
     "name": "Lilly",
     "parent": 1,
-    "size": 970
+    "size": 300
   },
   {
     "id": 8,
     "name": "Australia",
     "parent": 1,
-    "size": 13896
+    "size": 300
   },
   {
     "id": 9,
     "name": "Nagpur,India",
     "parent": 1,
-    "size": 1594
+    "size": 300
   }
   
  
