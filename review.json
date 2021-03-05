@@ -41,19 +41,19 @@
     "id": 7,
     "name": "Lilly",
     "parent": 1,
-    "size": 300
+    
   },
   {
     "id": 8,
     "name": "Australia",
     "parent": 1,
-    "size": 300
+    
   },
   {
     "id": 9,
     "name": "Nagpur,India",
     "parent": 1,
-    "size": 300
+    
   }
   
  
